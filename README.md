@@ -1,5 +1,5 @@
-bootstap-glyphicon-spinner
-==========================
+bootstrap-glyphicon-spinner
+===========================
 
 To create glyphicon spinner you have to include `glyphicon-spinner.css` stylesheet and add one of the following classes to selector with glyphicon:
 
